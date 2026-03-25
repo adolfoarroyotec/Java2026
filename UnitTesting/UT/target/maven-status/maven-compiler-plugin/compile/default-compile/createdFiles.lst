@@ -1,0 +1,10 @@
+com/tecmx/ut/ConsoleLoanRepository.class
+com/tecmx/ut/LoanException.class
+com/tecmx/ut/User.class
+com/tecmx/ut/Loan.class
+com/tecmx/ut/Notifier.class
+com/tecmx/ut/LoanService.class
+com/tecmx/ut/ConsoleNotifier.class
+com/tecmx/ut/LoanRepository.class
+com/tecmx/ut/UnitTesting.class
+com/tecmx/ut/Book.class
